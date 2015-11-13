@@ -13,8 +13,8 @@ For cases where a later variant reverses an earlier outcome (e.g., RPS-101 chang
 ```json
 {
 	"nuke25":{},
-	"nuke101":{"wolf":"incinerates"}
-	"nuke":{"wolf":"incinerates"}
+	"nuke101":{"wolf":"incinerates"},
+	"nuke":{"wolf":"incinerates"},
 	"wolf25":{"nuke":"-2 launches"},
 	"wolf101":{""},
 	"wolf":{""},
