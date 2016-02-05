@@ -1,0 +1,9 @@
+"rock":{
+"scissors":"crushes",
+},
+"paper":{
+"rock":"covers",
+},
+"scissors":{
+"paper":"cuts",
+},
